@@ -158,4 +158,5 @@ A spool refers to a roll of filament that is used as the printing material for t
 ## Output:
 ### Name:B.VIJAY KUMAR 
 ### Register Number:212222230173
-## Result:  Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+## Result: 
+Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
