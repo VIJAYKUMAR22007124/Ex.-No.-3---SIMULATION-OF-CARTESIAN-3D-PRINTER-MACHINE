@@ -87,13 +87,9 @@ Pulley :
 
 pulley is often used in the Y-axis mechanism to transfer motion from the printer's stepper motor to the print bed.
 
-Motor :
+Motor :Motor is help to movement of the print head along x,y,z axes
 
-Motor is help to movement of the print head along x,y,z axes
-
-Y-Axis Frame :
-
-It is responsible for support and stability of y axis frame.and also z axis.
+Y-Axis Frame :It is responsible for support and stability of y axis frame.and also z axis.
 
 Y-Axis Base :
 
@@ -103,17 +99,11 @@ The Y-axis base is responsible for providing stability and support to the entire
 
 ![image](https://github.com/VIJAYKUMAR22007124/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119657657/a468bfeb-a09c-4880-9e78-c5ba403597ad)
 
-Z-Axis Rod :
+Z-Axis Rod :The z-axis rod is responsible for supporting the weight of the print head and controlling its movement as it moves up and down during the printing process
 
-The z-axis rod is responsible for supporting the weight of the print head and controlling its movement as it moves up and down during the printing process
+Z-Axis Top Cover :The primary purpose of the z-axis top cover is to prevent dust and debris from settling on the z-axis rod, which can cause damage to the rod and the bearings that guide it
 
-Z-Axis Top Cover :
-
-The primary purpose of the z-axis top cover is to prevent dust and debris from settling on the z-axis rod, which can cause damage to the rod and the bearings that guide it
-
-Motor :
-
-Motor is help to movement of the print head along x,y,z axes.
+Motor :Motor is help to movement of the print head along x,y,z axes.
 
 ## Complete Assembly:
 
