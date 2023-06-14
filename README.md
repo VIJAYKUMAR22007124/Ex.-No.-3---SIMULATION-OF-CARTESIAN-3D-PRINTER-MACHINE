@@ -139,7 +139,7 @@ The X-axis is responsible for moving the print head back and forth along the hor
 
 SMPS :
 
-convert ac to dc current.
+Convert ac to dc current.
 
 LCD :
 
@@ -157,12 +157,7 @@ A spool refers to a roll of filament that is used as the printing material for t
 
 ![image](https://github.com/VIJAYKUMAR22007124/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119657657/c38d16f8-b3dc-4740-8657-189df5b6314d)
 
-
 ## Output:
-
 ### Name:B.VIJAY KUMAR 
 ### Register Number:212222230173
-
-
-## Result: 
-### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+## Result:  Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
