@@ -77,7 +77,7 @@ Motor is help to movement of the print head along x,y,z axes
 
 Y-Axis Supporter :
 
-The Y-axis supporter must be designed to withstand the forces generated during printing and maintain the printer's accuracy and stability. Horiz. & Vertical Threaded Rod : The horizontal threaded rod is typically used to hold the pulley that drives the movement of the print bed along the Y-axis.The vertical threaded rod is typically used to control the Z-axis movement of the print bed
+The Y-axis supporter must be designed to withstand the forces generated during printing and maintain the printer's accuracy and stability. 
 
 Smooth Rod :
 
