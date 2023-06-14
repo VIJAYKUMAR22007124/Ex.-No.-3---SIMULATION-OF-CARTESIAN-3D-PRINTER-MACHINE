@@ -109,37 +109,21 @@ Motor :Motor is help to movement of the print head along x,y,z axes.
 
 ![image](https://github.com/VIJAYKUMAR22007124/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119657657/db20cb1f-45ee-4be8-97de-1c6d3fcbc7d0)
 
-Frame :
+Frame :Rigid structure that holds all the other components of the printer
 
-Rigid structure that holds all the other components of the printer
+Y-Axis assembly :The Y-axis is responsible for moving the print bed back and forth along the horizontal axis.
 
-Y-Axis assembly :
- 
-The Y-axis is responsible for moving the print bed back and forth along the horizontal axis.
+Z-Axis Assembly :The Z-axis is responsible for moving the print head up and down along the vertical axis.
 
-Z-Axis Assembly :
+X-Axis Assembly :The X-axis is responsible for moving the print head back and forth along the horizontal axis.
 
-The Z-axis is responsible for moving the print head up and down along the vertical axis.
+SMPS :Convert ac to dc current.
 
-X-Axis Assembly :
+LCD :LCD screen provides a user-friendly interface that allows the user to control the printer and monitor its progress during printing.
 
-The X-axis is responsible for moving the print head back and forth along the horizontal axis.
+Spool Holder :It holds spool.
 
-SMPS :
-
-Convert ac to dc current.
-
-LCD :
-
-LCD screen provides a user-friendly interface that allows the user to control the printer and monitor its progress during printing.
-
-Spool Holder :
-
-It holds spool.
-
-Spool :
-
-A spool refers to a roll of filament that is used as the printing material for the 3D printer.
+Spool :A spool refers to a roll of filament that is used as the printing material for the 3D printer.
 
 ## Playing with Axis:
 
